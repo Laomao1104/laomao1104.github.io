@@ -1,0 +1,7 @@
+# robots.txt for http://laomao1104.github.io/
+
+User-agent: *
+Disallow: /teaching/
+Disallow: /rtx/builder/vote/
+
+Sitemap: https://laomao1104.github.io/sitemap.xml
