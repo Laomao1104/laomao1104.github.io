@@ -10,5 +10,8 @@
 
 .img-mini{
   width: 300px;
-  hight: 200px
+  hight: 200px;
+  background-images: url:(../images/mini.jpg);
+  background-size: 50%
+  background-repeat: no repeat
 }
