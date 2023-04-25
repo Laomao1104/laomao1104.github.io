@@ -9,8 +9,8 @@
 }
 
 .img-mini{
-  width: 300px;
-  hight: 200px;
+  width: 30px;
+  hight: 20px;
   background-images: url:(../images/mini.jpg);
   background-size: 100%;
   background-repeat: no repeat
