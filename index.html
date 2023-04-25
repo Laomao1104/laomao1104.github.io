@@ -289,13 +289,13 @@
         var audio = document.getElementById('music');
         if( a==0 && audio.paused){
             audio.play();
-            document.getElementById('bt').innerHTML = "嘟比安靜！！！";
+            document.getElementById('bt').innerHTML = "安靜！！！";
             a=a+1;
         }
         else if (a==1){
             audio.pause();
             audio.currentTime = 0;
-            document.getElementById('bt').innerHTML = "看看嘟比是誰";
+            document.getElementById('bt').innerHTML = "??";
             a=a+1;
 
         }
