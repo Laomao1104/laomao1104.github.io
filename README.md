@@ -7,4 +7,7 @@
 ## 什么是vercel?
 vercel是一个网站服务，可以把网站信息推入网络，就像github pages。但github pages是静态网站，没有数据库。
 vercel就是个解决方案
-旧資訊歡迎至我的 [旧网站](https://sites.google.com/view/laomao/)（但没发布新动态） 查閱。
+
+# 注意
+本测试网站是从原本网站而来的，原本的已移植到新的仓库，仅供参考
+
